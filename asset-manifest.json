@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://vinutavin.github.io/csb-37q3o/static/css/main.2a198a4c.chunk.css",
+    "main.js": "https://vinutavin.github.io/csb-37q3o/static/js/main.04224e61.chunk.js",
+    "main.js.map": "https://vinutavin.github.io/csb-37q3o/static/js/main.04224e61.chunk.js.map",
+    "runtime-main.js": "https://vinutavin.github.io/csb-37q3o/static/js/runtime-main.85556117.js",
+    "runtime-main.js.map": "https://vinutavin.github.io/csb-37q3o/static/js/runtime-main.85556117.js.map",
+    "static/css/2.4c34b247.chunk.css": "https://vinutavin.github.io/csb-37q3o/static/css/2.4c34b247.chunk.css",
+    "static/js/2.1adb4506.chunk.js": "https://vinutavin.github.io/csb-37q3o/static/js/2.1adb4506.chunk.js",
+    "static/js/2.1adb4506.chunk.js.map": "https://vinutavin.github.io/csb-37q3o/static/js/2.1adb4506.chunk.js.map",
+    "index.html": "https://vinutavin.github.io/csb-37q3o/index.html",
+    "static/css/2.4c34b247.chunk.css.map": "https://vinutavin.github.io/csb-37q3o/static/css/2.4c34b247.chunk.css.map",
+    "static/css/main.2a198a4c.chunk.css.map": "https://vinutavin.github.io/csb-37q3o/static/css/main.2a198a4c.chunk.css.map",
+    "static/js/2.1adb4506.chunk.js.LICENSE.txt": "https://vinutavin.github.io/csb-37q3o/static/js/2.1adb4506.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85556117.js",
+    "static/css/2.4c34b247.chunk.css",
+    "static/js/2.1adb4506.chunk.js",
+    "static/css/main.2a198a4c.chunk.css",
+    "static/js/main.04224e61.chunk.js"
+  ]
+}
